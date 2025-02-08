@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313814772213",
+    "project_id": "denemea-e64e2",
+    "storage_bucket": "denemea-e64e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313814772213:android:2b76c446eea3e5d76458bc",
+        "android_client_info": {
+          "package_name": "com.example.deneme_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313814772213-obr2m77rhhq3ra9escv56krcnaep0s30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGSbGmszFzPzeEdWaHhoG5aDlW4L03jvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313814772213-obr2m77rhhq3ra9escv56krcnaep0s30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
